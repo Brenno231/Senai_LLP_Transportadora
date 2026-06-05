@@ -1,4 +1,4 @@
-public class VeiculoAereo extends Veiculo {
+public abstract class VeiculoAereo extends Veiculo {
     private String rab;
     private int qtdMotores;
 

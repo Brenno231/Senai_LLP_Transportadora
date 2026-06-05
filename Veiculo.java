@@ -1,4 +1,4 @@
-public abstract class Veiculo {
+public abstract class Veiculo implements Transporte {
     private int anoFabricacao;
     private String marca;
     private String modelo;

@@ -1,4 +1,4 @@
-public class VeiculoFluvial extends Veiculo {
+public abstract class VeiculoFluvial extends Veiculo {
     private String registroMarinha;
     private double boca;
     private double caladoAereo;

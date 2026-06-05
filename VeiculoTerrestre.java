@@ -1,4 +1,4 @@
-public class VeiculoTerrestre extends Veiculo {
+public abstract class VeiculoTerrestre extends Veiculo{
     private int qtdRodas;
     private int qtdPortas;
     private String placa;
